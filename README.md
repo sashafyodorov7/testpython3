@@ -1,4 +1,4 @@
-# Super-duper internet shop#
+# Super-duper internet shop
 
 ## Opisanie
 
